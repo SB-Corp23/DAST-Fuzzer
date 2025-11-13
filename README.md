@@ -256,4 +256,4 @@ This tool is provided for educational and authorized testing purposes only. User
 ---
 
 **Created by**: [@4rt3f4kt](https://github.com/Art-Fakt)  
-**Repository**: [DAST-Fuzzer](https://github.com/Art-Fakt/DAST-Fuzzer)
+**Repository**: [DAST-Fuzzer](https://github.com/SB-Corp23/DAST-Fuzzer)
